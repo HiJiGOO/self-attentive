@@ -4,11 +4,13 @@ Implementation of ["A Structured Self-Attentive Sentence Embedding"](https://arx
 ## Result
 Accuracy: 0.85
 
-Single annotation vector - single *r* hop<br>
-<img src="image/single_attention.png" alt="single attention" width="800px"/><br>
 
+## Visualization
 Multi annotation vector - multi *r* hops<br>
-<img src="image/multi_attention.png" alt="multi attention" width="800px"/><br>
+<img src="image/multi_attention.png" alt="multi attention" width="720px"/><br>
+
+Single annotation vector - single *r* hop<br>
+<img src="image/single_attention.png" alt="single attention" width="720px"/><br>
 
 
 ## Reference
