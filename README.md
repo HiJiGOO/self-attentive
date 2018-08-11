@@ -6,10 +6,10 @@ Accuracy: 0.85
 
 
 ## Visualization
-Multi annotation vector - multi *r* hops<br>
+#### Multi annotation vector - multi *r* hops<br>
 <img src="image/multi_attention.png" alt="multi attention" width="720px"/><br>
 
-Single annotation vector - single *r* hop<br>
+#### Single annotation vector - single *r* hop<br>
 <img src="image/single_attention.png" alt="single attention" width="720px"/><br>
 
 
